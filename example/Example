@@ -1,0 +1,12 @@
+=== Rent-a-Car BriefDrive ===
+1. Register Vehicle
+2. List Available Vehicles
+3. Generate Invoice
+4. Exit
+Select an option: 1
+
+Enter License Plate: ABC-123
+Enter Vehicle Type (Cargo/Passenger): Passenger
+Enter Number of Passengers: 5
+
+Vehicle Registered Successfully!
